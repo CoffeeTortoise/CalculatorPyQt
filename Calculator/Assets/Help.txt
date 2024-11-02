@@ -1,0 +1,13 @@
+Available operations:
+* - multiply; - - subtraction; + - sum; / - division;
+sqrt(x) - square root of the x; pow(a, b) - a^b; a**b = a^b;
+sin(x); cos(x); tan(x); acos(x); asin(x); atan(x); exp(x); log(x, base);
+acosh(x); asinh(x); atanh(x); cosh(x); sinh(x); tanh(x);
+degrees(x) - convert x radians to degrees
+radians(x) - convert x degrees to radians
+factorial(x) - returns n factorial as an integer
+fabs(x) - return the absolute value of x
+x % y - remainder of dividing x by y
+Constants:
+pi = 3.141592...; e = 2.718281...; tau = 2 * pi
+Fractions in format: a.b, not a,b
